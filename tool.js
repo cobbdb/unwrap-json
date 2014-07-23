@@ -5,7 +5,8 @@ module.exports = function (data) {
     }
     // Arrays
     if (Array.isArray(data)) {
-        if ()
+        if (true) {
+        }
     }
     // Other objects
     for (i in data) {
